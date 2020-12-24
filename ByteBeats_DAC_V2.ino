@@ -2,11 +2,11 @@
                               ByteBeat DAC
                          Vernon Billingsley 2020
 
-                         A program to gernerate byte beats using a
-                         74HC595 serial to parrell shift register
-                         and 8 bit R2R dac....
-                         Also a test platform for a non standard,terminated
-                         DAC and differential op amp ouput.
+                    A program to generate byte beats using a  
+                    74HC595 serial to parallel shift register  
+                    and 8 bit R2R dac.... Also a test platform 
+                    for a non standard,terminated  DAC and 
+                    differential op amp output.
 
    Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
